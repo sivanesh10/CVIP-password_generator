@@ -1,2 +1,3 @@
 # CVIP-password_generator
-"🔐 Python Password Generator 🐍  Generate strong, random passwords effortlessly with this Python script. Customize password length and complexity to enhance your online security. Easily integrate into your projects and keep your data safe! 💻 
+
+Password GeneratorThis Python script generates a random password based on user input. It creates a password by combining uppercase letters, lowercase letters, digits, and special symbols.UsageRun the script by executing it in a Python environment.You will be prompted to enter whether you want to generate a password. Type 'Y' for yes or 'N' for no.If you choose 'Y', the script will generate a random password consisting of three components:Uppercase letters (A-Z)Lowercase letters (a-z)Digits (0-9)Special symbols (@#$%^&*)The generated password will be displayed on the screen.If you choose 'N' or enter anything other than 'Y', the script will display a message to check the spelling and exit.
